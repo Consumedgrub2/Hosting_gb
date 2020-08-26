@@ -1,1 +1,1 @@
-Hosting rust maps.
+Hosting in general.
